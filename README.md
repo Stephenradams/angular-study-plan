@@ -1,2 +1,2 @@
-# angular-study-plan
+# Angular Study Plan
 A study plan for Angular
